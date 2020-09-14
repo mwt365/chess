@@ -4,6 +4,9 @@ Chess AI web application using minimax and deep learning on backend.
 
 # Live on [Heroku](https://cs121-whales.herokuapp.com/)
 
+## API
+API docs available [here](doc/api_spec.md)
+
 ## Backend
 ### Backend setup
 
